@@ -1,14 +1,14 @@
-#PREMIER PROGRAMME
+# PREMIER PROGRAMME
 
-##Librairies utilisées
+## Librairies utilisées
 
 Le programme **exemple** utilise la librairie *stdio*.
 
-##Processus de compilation
+## Processus de compilation
 
-1.**exemple** est d'abord compilé dans un fichier :
-..* exemple.o
+1. **exemple** est d'abord compilé dans un fichier :
+  * exemple.o
 2.**exemple** est ensuite compilé dans un fichier exécutable :
-..* exemple
+  * exemple
 
 
