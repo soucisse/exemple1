@@ -8,7 +8,7 @@ Le programme **exemple** utilise la librairie *stdio*.
 
 1. **exemple** est d'abord compilé dans un fichier :
 - exemple.o
-2.**exemple** est ensuite compilé dans un fichier exécutable :
+2. **exemple** est ensuite compilé dans un fichier exécutable :
 - exemple
 
 
